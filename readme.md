@@ -11,7 +11,7 @@
 [transform的W3C介绍](http://www.w3school.com.cn/cssref/pr_transform.asp)  
 transform这个属性在这个项目中是用来完成元素位置移动效果的
 
-**通过定位和translate来实现元素位置移动的差异**
+**通过定位和translate来实现元素位置移动的差异**  
 改变元素样式来实现动画的步骤
 
 1. css改变元素的属性
